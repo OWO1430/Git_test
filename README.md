@@ -1,13 +1,13 @@
 # Git_test
 ```python
 #test for git
-int i = 5
-int i = 3
+int i = 6
+int i = 7
 i = i + 1
 ```
 
 ```python
 #test for git
-int i = 3
-i = i + 1
+int i = 9
+i = i + 2
 ```
