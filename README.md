@@ -8,6 +8,6 @@ i = i + 1
 
 ```python
 #test for git
-int i = 9
+int i = 9 + 1
 i = i + 2
 ```
